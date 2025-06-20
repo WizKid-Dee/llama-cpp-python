@@ -1,6 +1,6 @@
----
+xcode-select -p
 title: MacOS Install with Metal GPU
----
+xcode-select --install
 
 **(1) Make sure you have xcode installed... at least the command line parts**
 ```
